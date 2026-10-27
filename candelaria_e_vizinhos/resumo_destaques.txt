@@ -1,0 +1,57 @@
+CENSOS 2010 x 2022
+- População total [variação em %]: Candelária 30.171,0 (2010) -> 28.906,0 (2022). Maior alta entre os 9: Vera Cruz (11,4); menor: Passa Sete (-22,7). RS: 10.693.929,0 -> 10.882.965,0.
+- % de mulheres [variação em pontos]: Candelária 51,1 (2010) -> 51,0 (2022). Maior alta entre os 9: Lagoa Bonita do Sul (1,0); menor: Cerro Branco (-0,6). RS: 51,3 -> 51,7.
+- % morando na zona urbana [variação em pontos]: Candelária 52,1 (2010) -> 56,5 (2022). Maior alta entre os 9: Lagoa Bonita do Sul (6,1); menor: Cachoeira do Sul (0,9). RS: 85,1 -> 87,5.
+- % de 0 a 14 anos [variação em pontos]: Candelária 20,6 (2010) -> 16,2 (2022). Maior alta entre os 9: Cachoeira do Sul (-3,1); menor: Passa Sete (-8,3). RS: 20,8 -> 17,5.
+- % de 15 a 64 anos [variação em pontos]: Candelária 68,4 (2010) -> 68,1 (2022). Maior alta entre os 9: Lagoa Bonita do Sul (2,5); menor: Cerro Branco (-3,5). RS: 69,9 -> 68,4.
+- % de 65 anos ou mais [variação em pontos]: Candelária 10,9 (2010) -> 15,7 (2022). Maior alta entre os 9: Cerro Branco (9,1); menor: Vera Cruz (3,6). RS: 9,3 -> 14,1.
+- Idade mediana (anos) [variação em pontos]: Candelária 34,0 (2010) -> 39,0 (2022). Maior alta entre os 9: Lagoa Bonita do Sul (10,0); menor: Candelária (5,0). RS: 32,0 -> 38,0.
+- Índice de envelhecimento (idosos 65+ por 100 jovens 0-14) [variação em pontos]: Candelária 53,0 (2010) -> 96,8 (2022). Maior alta entre os 9: Cerro Branco (104,3); menor: Vera Cruz (31,8). RS: 44,6 -> 80,4.
+- Razão de dependência (0-14 e 65+ por 100 de 15-64) [variação em pontos]: Candelária 46,1 (2010) -> 46,8 (2022). Maior alta entre os 9: Cerro Branco (7,7); menor: Lagoa Bonita do Sul (-5,5). RS: 43,2 -> 46,2.
+- % branca [variação em pontos]: Candelária 85,5 (2010) -> 84,1 (2022). Maior alta entre os 9: Cerro Branco (1,1); menor: Rio Pardo (-4,3). RS: 83,2 -> 78,4.
+- % preta [variação em pontos]: Candelária 4,1 (2010) -> 5,0 (2022). Maior alta entre os 9: Lagoa Bonita do Sul (1,1); menor: Passa Sete (-0,7). RS: 5,6 -> 6,5.
+- % parda [variação em pontos]: Candelária 10,1 (2010) -> 10,9 (2022). Maior alta entre os 9: Vale do Sol (5,2); menor: Cerro Branco (-0,8). RS: 10,6 -> 14,7.
+- % negra (preta + parda) [variação em pontos]: Candelária 14,3 (2010) -> 15,9 (2022). Maior alta entre os 9: Vale do Sol (4,7); menor: Cerro Branco (-0,6). RS: 16,1 -> 21,2.
+- Domicílios particulares permanentes [variação em %]: Candelária 10.426,0 (2010) -> 11.388,0 (2022). Maior alta entre os 9: Vera Cruz (29,2); menor: Passa Sete (-5,6). RS: 3.599.604,0 -> 4.256.082,0.
+- Média de moradores por domicílio [variação em pontos]: Candelária 2,9 (2010) -> 2,5 (2022). Maior alta entre os 9: Cachoeira do Sul (-0,3); menor: Passa Sete (-0,6). RS: 3,0 -> 2,5.
+- % de domicílios com água da rede geral [variação em pontos]: Candelária 58,9 (2010) -> 69,6 (2022). Maior alta entre os 9: Vale do Sol (18,3); menor: Lagoa Bonita do Sul (-9,8). RS: 85,3 -> 86,6.
+- % com esgoto em rede geral ou fossa séptica [variação em pontos]: Candelária 67,5 (2010) -> 64,2 (2022). Maior alta entre os 9: Novo Cabrais (39,4); menor: Passa Sete (-8,2). RS: 74,6 -> 84,8.
+- % com lixo coletado [variação em pontos]: Candelária 83,4 (2010) -> 85,7 (2022). Maior alta entre os 9: Lagoa Bonita do Sul (39,3); menor: Candelária (2,3). RS: 92,1 -> 95,5.
+- Taxa de alfabetização, 15 anos ou mais (%) [variação em pontos]: Candelária 90,5 (2010) -> 94,1 (2022). Maior alta entre os 9: Passa Sete (4,0); menor: Vale do Sol (1,2). RS: 95,5 -> 96,9.
+- Pessoas de 15+ que não sabem ler e escrever [variação em %]: Candelária 2.274,0 (2010) -> 1.427,0 (2022). Maior alta entre os 9: Vale do Sol (-23,2); menor: Novo Cabrais (-41,3). RS: 383.293,0 -> 278.815,0.
+- Pessoas ocupadas (10+) [variação em pontos]: Candelária 17.600,0 (2010) -> 13.307,0 (2022). Maior alta entre os 9: Vera Cruz (-338,0); menor: Candelária (-4.293,0). RS: 5.533.116,0 -> 5.230.850,0.
+- Renda média do trabalho (R$ de jul/2022) [variação em %]: Candelária 1.458,6 (2010) -> 1.964,8 (2022). Maior alta entre os 9: Passa Sete (93,9); menor: Cachoeira do Sul (12,2). RS: 2.666,3 -> 3.075,9.
+- Renda mediana do trabalho (R$ de jul/2022) [variação em %]: Candelária 1.051,1 (2010) -> 1.400,0 (2022). Maior alta entre os 9: Novo Cabrais (61,8); menor: Cerro Branco (17,6). RS: 1.545,8 -> 2.000,0.
+- Renda média nominal (R$ da época) [variação em %]: Candelária 707,7 (2010) -> 1.964,8 (2022). Maior alta entre os 9: Passa Sete (299,5); menor: Cachoeira do Sul (131,2). RS: 1.293,7 -> 3.075,9.
+- Mulheres ganham, para cada R$ 100 dos homens [variação em %]: Candelária 68,1 (2010) -> 86,0 (2022). Maior alta entre os 9: Vale do Sol (48,5); menor: Vera Cruz (10,6). RS: 68,3 -> 76,8.
+- Negros ganham, para cada R$ 100 dos brancos [variação em %]: Candelária 58,7 (2010) -> 79,1 (2022). Maior alta entre os 9: Cachoeira do Sul (37,4); menor: Lagoa Bonita do Sul (-13,3). RS: 61,8 -> 66,6.
+- Pessoas negras ocupadas (base da linha anterior) [variação em pontos]: Candelária 1.959,0 (2010) -> 2.252,0 (2022). Maior alta entre os 9: Cachoeira do Sul (1.478,0); menor: Novo Cabrais (-149,0). RS: 822.909,0 -> 1.123.047,0.
+- PIB (milhões de R$ de jul/2022) [variação em %]: Candelária 790,5 (2010) -> 1.106,9 (2022). Maior alta entre os 9: Rio Pardo (61,4); menor: Vale do Sol (-28,7). RS: 497.220,4 -> 593.633,7.
+- PIB por habitante (R$ de jul/2022) [variação em %]: Candelária 26.201,7 (2010) -> 38.291,6 (2022). Maior alta entre os 9: Rio Pardo (75,0); menor: Vale do Sol (-20,2). RS: 46.495,6 -> 54.547,1.
+- % da economia vinda da agropecuária [variação em pontos]: Candelária 29,0 (2010) -> 29,7 (2022). Maior alta entre os 9: Rio Pardo (17,9); menor: Lagoa Bonita do Sul (-3,8). RS: 8,3 -> 14,9.
+- % da economia vinda da indústria [variação em pontos]: Candelária 11,9 (2010) -> 18,2 (2022). Maior alta entre os 9: Candelária (6,3); menor: Vale do Sol (-35,1). RS: 27,9 -> 24,1.
+
+AGROPECUÁRIA
+- Estabelecimentos agropecuários [variação em %]: Candelária 4.057,0 (2006) -> 3.647,0 (2017). Maior alta entre os 9: Vale do Sol (-9,2); menor: Rio Pardo (-31,8). RS: 441.472,0 -> 365.094,0.
+- % de estabelecimentos da agricultura familiar [variação em %]: Candelária 92,8 (2006) -> 89,4 (2017). Maior alta entre os 9: Vale do Sol (0,7); menor: Cachoeira do Sul (-9,0). RS: 85,7 -> 80,5.
+- Área dos estabelecimentos (ha) [variação em %]: Candelária 69.615,0 (2006) -> 71.161,0 (2017). Maior alta entre os 9: Novo Cabrais (22,8); menor: Cerro Branco (-11,4). RS: 20.326.715,0 -> 21.684.558,0.
+- Área média por estabelecimento (ha) [variação em %]: Candelária 17,2 (2006) -> 19,5 (2017). Maior alta entre os 9: Rio Pardo (48,0); menor: Cerro Branco (7,2). RS: 46,0 -> 59,4.
+- Área plantada, todas as lavouras (ha) [variação em %]: Candelária 40.520,0 (2010) -> 38.120,0 (2022). Maior alta entre os 9: Rio Pardo (105,0); menor: Vera Cruz (-37,9). RS: 7.942.567,0 -> 10.567.993,0.
+- Valor da produção das lavouras (milhões de R$ de dez/2022) [variação em %]: Candelária 305,0 (2010) -> 384,8 (2022). Maior alta entre os 9: Rio Pardo (187,1); menor: Cerro Branco (-10,7). RS: 37.267,9 -> 64.749,8.
+- Área plantada de fumo (ha) [variação em %]: Candelária 8.800,0 (2010) -> 5.424,0 (2022). Maior alta entre os 9: Vale do Sol (-16,7); menor: Cachoeira do Sul (-71,2). RS: 220.512,0 -> 149.152,0.
+- Área plantada de soja (ha) [variação em %]: Candelária 13.000,0 (2010) -> 19.500,0 (2022). Maior alta entre os 9: Cerro Branco (460,0); menor: Candelária (50,0). RS: 4.021.778,0 -> 6.387.670,0.
+- Área plantada de milho (ha) [variação em %]: Candelária 8.000,0 (2010) -> 5.160,0 (2022). Maior alta entre os 9: Cachoeira do Sul (69,1); menor: Lagoa Bonita do Sul (-61,8). RS: 1.151.397,0 -> 784.000,0.
+- Área plantada de arroz (ha) [variação em %]: Candelária 8.056,0 (2010) -> 6.320,0 (2022). Maior alta entre os 9: Cerro Branco (8,4); menor: Cachoeira do Sul (-31,9). RS: 1.101.311,0 -> 961.169,0.
+- Rebanho bovino (cabeças) [variação em %]: Candelária 40.564,0 (2010) -> 29.785,0 (2022). Maior alta entre os 9: Novo Cabrais (-3,8); menor: Lagoa Bonita do Sul (-41,4). RS: 14.469.307,0 -> 11.932.838,0.
+- Produção de leite (mil litros) [variação em %]: Candelária 3.903,0 (2010) -> 3.796,0 (2022). Maior alta entre os 9: Novo Cabrais (133,0); menor: Vera Cruz (-43,7). RS: 3.633.834,0 -> 4.071.675,0.
+
+POSIÇÃO MÉDIA NO RANKING DE AVANÇOS (1 = quem mais avançou)
+- Novo Cabrais: 2,6
+- Passa Sete: 3,6
+- Candelária: 4,4
+- Vale do Sol: 4,4
+- Cachoeira do Sul: 5,0
+- Cerro Branco: 5,7
+- Lagoa Bonita do Sul: 5,8
+- Vera Cruz: 6,6
+- Rio Pardo: 6,8
