@@ -7,6 +7,7 @@ Comparações entre os Censos Demográficos do IBGE de 2010 e 2022 para três re
 | [`candelaria_e_vizinhos/`](candelaria_e_vizinhos/) | Candelária e os 8 municípios que fazem divisa com ela | 9 |
 | [`novo_cabrais_e_vizinhos/`](novo_cabrais_e_vizinhos/) | Novo Cabrais e os 4 municípios que fazem divisa com ela | 5 |
 | [`alfabetizacao_microrregiao_santa_cruz/`](alfabetizacao_microrregiao_santa_cruz/) | Alfabetização na microrregião IBGE de Santa Cruz do Sul (43020) | 16 |
+| [`censo_escolar/`](censo_escolar/) | Censo Escolar do INEP (2010, 2022 e 2025) para todos os municípios acima | 21 |
 
 ## Fonte
 
@@ -56,6 +57,12 @@ Os 16 municípios da microrregião IBGE 43020: Arroio do Tigre, Candelária, Est
 Destaques: a taxa da região subiu de 94,6% para 96,3%, e o número de pessoas de 15+ que não sabem ler e escrever caiu de 13.886 para 10.398. Todos os 16 municípios melhoraram; os maiores avanços foram Estrela Velha (+4,4 pontos), Passa Sete (+4,0) e Candelária (+3,6).
 
 > **Correção:** a primeira versão desta planilha tinha o grupo de 65 anos ou mais zerado em 2010, o que deixava a taxa de 2010 alta demais. A planilha e o gráfico `01_taxa.png` aqui já estão corrigidos, e o notebook também.
+
+## 4. Censo Escolar
+
+Escolas, matrículas por etapa, turmas, professores e infraestrutura das escolas nos 21 municípios das três regiões, em 2010, 2022 e 2025, a partir dos microdados do INEP. Detalhes em [`censo_escolar/README.md`](censo_escolar/README.md).
+
+> **Pendência:** por enquanto a pasta tem só o notebook; a planilha e os gráficos entram depois da primeira rodada no Colab.
 
 ## Como reproduzir
 
