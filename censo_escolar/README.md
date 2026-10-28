@@ -10,7 +10,7 @@ Escolas, matrículas, turmas, professores e infraestrutura escolar nos 21 munic�
 **Indicadores:** escolas em atividade (por rede e rurais); matrículas por etapa (creche, pré-escola, fundamental anos iniciais e finais, médio, profissional, EJA, educação especial); divisão das matrículas entre redes e zona rural; turmas e alunos por turma; professores e alunos por professor; % de escolas com internet, banda larga, biblioteca, laboratórios, quadra, esgoto da rede pública, água potável e alimentação.
 
 **Destaques (microrregião de Santa Cruz do Sul, 16 municípios):**
-- As matrículas da educação básica caíram de 70.018 (2010) para 62.859 (2022), −10%. Só Mato Leitão cresceu (+13%); Passa Sete (−46%) e Cerro Branco (−43%) foram os que mais perderam.
+- As matrículas da educação básica caíram de 70.018 (2010) para 62.859 (2022), −10%. Só Mato Leitão cresceu (+13%); Passa Sete (−46%), Ibarama (−36%) e Segredo (−35%) foram os que mais perderam.
 - A creche foi na direção contrária: de 4.227 para 7.412 matrículas (+75%). A pré-escola subiu 36%, e a educação especial quase dobrou (1.972 para 3.831).
 - A EJA (jovens e adultos) encolheu 56%, e o fundamental anos finais, 27%.
 - Havia 431 escolas em atividade em 2010 e 343 em 2025. As rurais caíram de 242 para 108. Sinimbu (26 para 9) e Gramado Xavier (19 para 7) foram os que mais fecharam escolas; Santa Cruz do Sul foi de 96 para 117, puxada pelas escolas privadas.
