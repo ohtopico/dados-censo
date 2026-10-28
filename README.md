@@ -11,7 +11,7 @@ Comparações entre os Censos Demográficos do IBGE de 2010 e 2022 para três re
 
 ## Fonte
 
-Todos os números vêm do IBGE, pela API do SIDRA (`apisidra.ibge.gov.br`), extraídos em 27/10/2026. Valores em reais de 2010 foram corrigidos pelo IPCA para reais de julho de 2022 (fator 2,061; tabela 1737).
+Os números das pastas 1 a 3 vêm do IBGE, pela API do SIDRA (`apisidra.ibge.gov.br`), extraídos em 27/10/2026; os do Censo Escolar vêm dos microdados do INEP. Valores em reais de 2010 foram corrigidos pelo IPCA para reais de julho de 2022 (fator 2,061; tabela 1737).
 
 | Tema | 2010 | 2022 |
 |---|---|---|
@@ -62,11 +62,15 @@ Destaques: a taxa da região subiu de 94,6% para 96,3%, e o número de pessoas d
 
 Escolas, matrículas por etapa, turmas, professores e infraestrutura das escolas nos 21 municípios das três regiões, em 2010, 2022 e 2025, a partir dos microdados do INEP. Detalhes em [`censo_escolar/README.md`](censo_escolar/README.md).
 
-> **Pendência:** por enquanto a pasta tem só o notebook; a planilha e os gráficos entram depois da primeira rodada no Colab.
+- `dados_censo_escolar_regioes.xlsx`, `escolas_21_municipios.csv`, `graficos/` e `censo_escolar_regioes.ipynb`.
+
+Destaques: na microrregião de Santa Cruz do Sul, as matrículas caíram 10% de 2010 a 2022 (70.018 para 62.859), mas as de creche subiram 75%. O número de escolas em atividade caiu de 431 para 343 até 2025, e o de escolas rurais, de 242 para 108.
+
+> **Atenção:** em 2025 o INEP tirou matrículas, turmas e professores da tabela de escolas; esses indicadores vão até 2022.
 
 ## Como reproduzir
 
-Abra o notebook da pasta no [Google Colab](https://colab.research.google.com/) e rode todas as células. Cada um baixa os dados do SIDRA (alguns minutos) e no fim gera um `.zip` com a planilha e os gráficos.
+Abra o notebook da pasta no [Google Colab](https://colab.research.google.com/) e rode todas as células. Cada um baixa os dados do SIDRA ou do INEP (alguns minutos) e no fim gera um `.zip` com a planilha e os gráficos.
 
 ## Cuidados na comparação
 
